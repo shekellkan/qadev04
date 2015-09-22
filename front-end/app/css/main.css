@@ -1,0 +1,19 @@
+body{
+    background-color: mediumseagreen;
+}
+header{
+    height: 30px;
+}
+footer{
+    height: 30px;
+    color: aqua;
+    font-size: 16px;
+}
+#container{
+    height: 450px;
+}
+#container fieldset{
+    width: 40%;
+    margin-top: 100px;
+    margin-left: 100px;
+}
